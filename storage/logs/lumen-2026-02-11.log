@@ -1318,3 +1318,7 @@
 [2026-02-11 14:58:38] local.INFO: Binding de produto criado com sucesso: id=10  
 [2026-02-11 14:58:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
 [2026-02-11 14:58:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 15:00:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 15:00:44] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 15:00:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 15:00:44] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
