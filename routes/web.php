@@ -49,22 +49,22 @@ $router->group(['prefix' => 'api'], function () use ($router) {
         $router->post('/{faqId}/categories', 'FaqController@addCategoryBinding');
         $router->delete('/{faqId}/categories/{categoryId}', 'FaqController@removeCategoryBinding');
     });
-});
 
-// Rotas públicas para consumir FAQs (para frontend ou widgets)
-// Estas rotas requerem o store_id como parâmetro na URL
-$router->group(['prefix' => 'public'], function () use ($router) {
-    // FAQ por produto
-    $router->get('/faqs/{storeId}/product/{productId}', 'FaqController@getProductFaq');
-    
-    // FAQ por categoria (usando handle)
-    $router->get('/faqs/{storeId}/category/{categoryHandle}', 'FaqController@getCategoryFaq');
-    
-    // FAQ da homepage
-    $router->get('/faqs/{storeId}/homepage', 'FaqController@getHomepageFaq');
+    // Rotas públicas para consumir FAQs (para frontend ou widgets)
+    // Estas rotas requerem o store_id como parâmetro na URL
+    $router->group(['prefix' => 'public'], function () use ($router) {
+        // FAQ por produto
+        $router->get('/faqs/{storeId}/product/{productId}', 'FaqController@getProductFaq');
+        
+        // FAQ por categoria (usando handle)
+        $router->get('/faqs/{storeId}/category/{categoryHandle}', 'FaqController@getCategoryFaq');
+        
+        // FAQ da homepage
+        $router->get('/faqs/{storeId}/homepage', 'FaqController@getHomepageFaq');
 
-    // Verificar se já existe FAQ vinculado
-    $router->get('/check/product/{storeId}/{productId}', 'FaqController@checkProductFaq');
-    $router->get('/check/category/{storeId}/{categoryHandle}', 'FaqController@checkCategoryFaq');
-    $router->get('/check/homepage/{storeId}', 'FaqController@checkHomepageFaq');
+        // Verificar se já existe FAQ vinculado
+        $router->get('/check/product/{storeId}/{productId}', 'FaqController@checkProductFaq');
+        $router->get('/check/category/{storeId}/{categoryHandle}', 'FaqController@checkCategoryFaq');
+        $router->get('/check/homepage/{storeId}', 'FaqController@checkHomepageFaq');
+    });
 });
