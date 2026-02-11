@@ -1,0 +1,274 @@
+[2026-02-10 10:08:16] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:08:16] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-10 10:11:29] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:11:29] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-10 10:14:00] local.INFO: Tentando autorizar com código: 6f71390007...  
+[2026-02-10 10:14:01] local.INFO: Token recebido com sucesso: 6e575cc323...  
+[2026-02-10 10:14:01] local.ERROR: Erro na autorização Nuvemshop: SQLSTATE[23000]: Integrity constraint violation: 19 NOT NULL constraint failed: stores.store_name (Connection: sqlite, SQL: insert into "stores" ("store_id", "access_token", "refresh_token", "token_expires_at", "store_data", "updated_at", "created_at") values (6300987, 6e575cc323f3567920f73d0e875c65eaee14c69e, ?, ?, {"access_token":"6e575cc323f3567920f73d0e875c65eaee14c69e","token_type":"bearer","scope":"write_products","user_id":6300987}, 2026-02-10 10:14:01, 2026-02-10 10:14:01))  
+[2026-02-10 10:15:20] local.INFO: Tentando autorizar com código: 6f71390007...  
+[2026-02-10 10:15:20] local.ERROR: Token não recebido na resposta {"error":"invalid_grant","error_description":"Authorization code doesn't exist or is invalid for the client"} 
+[2026-02-10 10:15:44] local.INFO: Tentando autorizar com código: 665721eddd...  
+[2026-02-10 10:15:44] local.INFO: Token recebido com sucesso: 5bb8df3842...  
+[2026-02-10 10:15:44] local.INFO: Loja 6300987 salva/atualizada com sucesso  
+[2026-02-10 10:15:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:15:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:15:56] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:17:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:17:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:17:01] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:17:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:17:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:17:02] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:19:19] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:19:19] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:19:19] local.INFO: FaqController@store - store_id: 6300987  
+[2026-02-10 10:19:19] local.ERROR: Call to undefined method App\Http\Controllers\FaqController::validate() {"exception":"[object] (Error(code: 0): Call to undefined method App\\Http\\Controllers\\FaqController::validate() at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Controllers/FaqController.php:100)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(36): App\\Http\\Controllers\\FaqController->store()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Util.php(43): Illuminate\\Container\\BoundMethod::{closure:Illuminate\\Container\\BoundMethod::call():35}()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(696): Illuminate\\Container\\BoundMethod::call()
+#5 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(391): Illuminate\\Container\\Container->call()
+#6 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(333): Laravel\\Lumen\\Application->callControllerCallable()
+#7 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(284): Laravel\\Lumen\\Application->callControllerAction()
+#8 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute()
+#9 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::handleFoundRoute():263}()
+#10 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/NexoApiAuth.php(99): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#11 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\NexoApiAuth->handle()
+#12 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#13 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#14 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#15 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(263): Laravel\\Lumen\\Application->sendThroughPipeline()
+#16 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(171): Laravel\\Lumen\\Application->handleFoundRoute()
+#17 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::dispatch():167}()
+#18 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/CorsMiddleware.php(31): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#19 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\CorsMiddleware->handle()
+#20 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#21 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#22 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#23 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(167): Laravel\\Lumen\\Application->sendThroughPipeline()
+#24 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch()
+#25 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#26 {main}
+"} 
+[2026-02-10 10:24:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:24:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:24:43] local.INFO: FaqController@store - store_id: 6300987  
+[2026-02-10 10:24:43] local.INFO: FAQ criado com sucesso: 1 para store_id: 6300987  
+[2026-02-10 10:24:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:24:44] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:24:44] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:28:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:28:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:28:41] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:28:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:28:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:28:41] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:31:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:31:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:31:05] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:31:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:31:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:31:05] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:31:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:31:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:31:57] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:32:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:32:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:32:18] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:32:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:32:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:32:18] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:32:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:32:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:32:26] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:32:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:32:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:32:26] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:48:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:48:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:48:07] local.INFO: FaqController@show - store_id: 6300987, faq_id: 1  
+[2026-02-10 10:48:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:48:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:48:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:48:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:48:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:48:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:49:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:49:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:49:45] local.INFO: FaqController@update - store_id: 6300987, faq_id: 1  
+[2026-02-10 10:49:45] local.INFO: FAQ 1 atualizado com sucesso para store_id: 6300987  
+[2026-02-10 10:49:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:49:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:49:45] local.INFO: FaqController@addQuestion - store_id: 6300987, faq_id: 1  
+[2026-02-10 10:49:45] local.INFO: Pergunta criada para FAQ 1  
+[2026-02-10 10:49:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:49:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:49:46] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:55:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:07] local.INFO: FaqController@show - store_id: 6300987, faq_id: 1  
+[2026-02-10 10:55:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:14] local.INFO: FaqController@update - store_id: 6300987, faq_id: 1  
+[2026-02-10 10:55:14] local.INFO: FAQ 1 atualizado com sucesso para store_id: 6300987  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:14] local.INFO: FaqController@updateQuestion - store_id: 6300987, question_id: 1  
+[2026-02-10 10:55:14] local.INFO: Pergunta 1 atualizada com sucesso  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:14] local.INFO: FaqController@createBinding - store_id: 6300987, faq_id: 1  
+[2026-02-10 10:55:14] local.INFO: Binding criado para FAQ 1: type=homepage, id=  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:14] local.INFO: FaqController@index - store_id: 6300987  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:17] local.INFO: FaqController@show - store_id: 6300987, faq_id: 1  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:29] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:29] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:30] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:30] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 10:55:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 10:55:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:05:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:05:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:05:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:05:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:05:23] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:05:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:05:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:05:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:05:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:05:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:05:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:05:24] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:06:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:06:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:00] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:00] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:00] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:07:00] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:00] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:00] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:00] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:01] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:07:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:05] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:05] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:07:19] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:19] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:19] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:19] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:19] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:07:19] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:19] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:07:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:07:20] local.ERROR: Erro ao obter FAQs: SQLSTATE[HY000]: General error: 1 no such table: faq_product_bindings (Connection: sqlite, SQL: select * from "faq_product_bindings" where "faq_product_bindings"."faq_id" in (1))  
+[2026-02-10 11:09:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:09:03] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-10 11:09:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:09:12] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-10 11:09:30] local.INFO: Tentando autorizar com código: 89c37f6bc3...  
+[2026-02-10 11:09:30] local.INFO: Token recebido com sucesso: ece21f1a0e...  
+[2026-02-10 11:09:31] local.INFO: Loja 6300987 salva/atualizada com sucesso  
+[2026-02-10 11:09:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:09:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:09:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:09:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:09:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:09:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:09:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:09:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:27] local.INFO: FAQ criado: 1 para store 6300987  
+[2026-02-10 11:10:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:10:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:11:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:16:16] local.ERROR: There are no commands defined in the "route" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"route\" namespace. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:694)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(743): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2026-02-10 11:29:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:50] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:50] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:50] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:50] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-10 11:29:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-10 11:29:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  

@@ -1,0 +1,1320 @@
+[2026-02-11 09:16:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:16:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:16:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:28:48] local.ERROR: Command "serve" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"serve\" is not defined. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2026-02-11 09:29:16] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:29:16] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 63009  
+[2026-02-11 09:29:22] local.ERROR: Command "tinker" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"tinker\" is not defined. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2026-02-11 09:38:08] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:38:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:38:08] local.INFO: FAQ criado: 2 para store 63009  
+[2026-02-11 09:38:11] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:38:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:38:16] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:38:16] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:38:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:38:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:38:49] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:38:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:39:16] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:39:16] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:39:16] local.INFO: FAQ criado: 3 para store 63009  
+[2026-02-11 09:39:22] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:39:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:39:22] local.INFO: FAQ criado: 4 para store 63009  
+[2026-02-11 09:39:26] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:39:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:39:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:39:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:39:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:39:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:39:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:39:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:39:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:39:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:39:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:39:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:40:35] local.INFO: FAQ criado: 5 para store 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:40:35] local.INFO: Iniciando addProductBinding: storeId=63009, faqId=5, productId=123456  
+[2026-02-11 09:40:35] local.INFO: FAQ encontrado: 5. Criando binding...  
+[2026-02-11 09:40:35] local.INFO: Binding de produto criado com sucesso: id=2  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:40:35] local.INFO: Iniciando addCategoryBinding: storeId=63009, faqId=5, categoryId=987654, categoryHandle=test-category  
+[2026-02-11 09:40:35] local.INFO: FAQ encontrado: 5. Criando binding...  
+[2026-02-11 09:40:35] local.INFO: Binding de categoria criado com sucesso: id=2  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 09:40:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 09:42:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:42:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:00] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:00] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:00] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:00] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:03] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:03] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:06] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:06] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:43:06] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:43:06] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:44:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:44:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:44:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:44:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:44:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:44:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:45:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:45:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:45:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:45:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:45:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:45:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:45:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:45:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:30] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:30] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:30] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:30] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:46:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:46:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:35] local.INFO: FAQ criado: 6 para store 6300987  
+[2026-02-11 09:47:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:47:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:47:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 09:49:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 09:49:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:20:52] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:20:52] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:10] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:10] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:10] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:10] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:10] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:10] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:13] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:13] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:13] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:13] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:21:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:21:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:25:13] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:25:13] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:25:13] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:25:13] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:25:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:25:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:25:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:25:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:25:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:25:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:25:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:25:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:25:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:25:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:29] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:29] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:50] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:50] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:50] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:50] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:27:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:27:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:28:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:28:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:16] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:16] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:16] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:16] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:19] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:19] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:53] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:53] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:53] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:53] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:29:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:29:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:30:47] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=6, productId=273721211  
+[2026-02-11 10:30:47] local.INFO: FAQ encontrado: 6. Criando binding...  
+[2026-02-11 10:30:47] local.INFO: Binding de produto criado com sucesso: id=3  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:30:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:05] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=6, productId=273721211  
+[2026-02-11 10:31:05] local.INFO: FAQ encontrado: 6. Criando binding...  
+[2026-02-11 10:31:05] local.INFO: Binding de produto criado com sucesso: id=3  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:05] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=6, productId=289992751  
+[2026-02-11 10:31:05] local.INFO: FAQ encontrado: 6. Criando binding...  
+[2026-02-11 10:31:05] local.INFO: Binding de produto criado com sucesso: id=4  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:53] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:53] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:53] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:53] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:53] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:53] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:31:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:31:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:04] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=6, productId=273721211  
+[2026-02-11 10:32:04] local.INFO: FAQ encontrado: 6. Criando binding...  
+[2026-02-11 10:32:04] local.INFO: Binding de produto criado com sucesso: id=3  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:04] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=6, productId=289992751  
+[2026-02-11 10:32:04] local.INFO: FAQ encontrado: 6. Criando binding...  
+[2026-02-11 10:32:04] local.INFO: Binding de produto criado com sucesso: id=4  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:20] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:20] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:43] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=6, productId=289305186  
+[2026-02-11 10:32:43] local.INFO: FAQ encontrado: 6. Criando binding...  
+[2026-02-11 10:32:43] local.INFO: Binding de produto criado com sucesso: id=5  
+[2026-02-11 10:32:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:44] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:32:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:32:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:48] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:48] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:33:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:33:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:03] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:03] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:22] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=6, categoryId=36162523, categoryHandle=teste-da-api  
+[2026-02-11 10:34:22] local.INFO: FAQ encontrado: 6. Criando binding...  
+[2026-02-11 10:34:22] local.INFO: Binding de categoria criado com sucesso: id=3  
+[2026-02-11 10:34:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:34:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:34:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:03] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:07] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:07] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:07] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=1, productId=273721211  
+[2026-02-11 10:35:07] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 10:35:08] local.INFO: Binding de produto criado com sucesso: id=6  
+[2026-02-11 10:35:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:08] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=1, productId=288211967  
+[2026-02-11 10:35:08] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 10:35:08] local.INFO: Binding de produto criado com sucesso: id=7  
+[2026-02-11 10:35:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:35:08] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=1, categoryId=36162523, categoryHandle=teste-da-api  
+[2026-02-11 10:35:08] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 10:35:08] local.INFO: Binding de categoria criado com sucesso: id=4  
+[2026-02-11 10:35:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:35:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:44:36] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:44:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:44:36] local.INFO: FAQ criado: 7 para store 63009  
+[2026-02-11 10:44:36] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:44:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:44:41] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:44:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:44:41] local.INFO: FAQ criado: 8 para store 63009  
+[2026-02-11 10:44:41] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:44:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:44:46] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:44:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:44:46] local.INFO: FAQ criado: 9 para store 63009  
+[2026-02-11 10:44:51] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:44:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:45:09] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:45:09] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:45:09] local.INFO: FAQ criado: 10 para store 63009  
+[2026-02-11 10:45:09] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:45:09] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:45:09] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:45:09] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:45:09] local.INFO: Iniciando addProductBinding: storeId=63009, faqId=10, productId=123456  
+[2026-02-11 10:45:09] local.INFO: FAQ encontrado: 10. Criando binding...  
+[2026-02-11 10:45:09] local.INFO: Binding de produto criado com sucesso: id=8  
+[2026-02-11 10:45:14] local.INFO: NexoApiAuth: store_id extraído do token: 63009  
+[2026-02-11 10:45:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 63009  
+[2026-02-11 10:45:14] local.INFO: Iniciando addProductBinding: storeId=63009, faqId=10, productId=123456  
+[2026-02-11 10:45:14] local.INFO: FAQ encontrado: 10. Criando binding...  
+[2026-02-11 10:45:14] local.INFO: Binding de produto criado com sucesso: id=8  
+[2026-02-11 10:51:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:51:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:51:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:51:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:51:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:51:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:51:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:51:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:51:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:51:03] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:51:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:51:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 10:51:04] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 10:51:04] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:33:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:33:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:33:59] local.ERROR: Unclosed '{' on line 10 {"exception":"[object] (ParseError(code: 0): Unclosed '{' on line 10 at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Controllers/FaqController.php:220)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/composer/ClassLoader.php(427): {closure:Composer\\Autoload\\ClassLoader::initializeIncludeClosure():575}()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(959): ReflectionClass->__construct()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(832): Illuminate\\Container\\Container->build()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(763): Illuminate\\Container\\Container->resolve()
+#5 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Application.php(327): Illuminate\\Container\\Container->make()
+#6 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->make()
+#7 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(284): Laravel\\Lumen\\Application->callControllerAction()
+#8 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute()
+#9 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::handleFoundRoute():263}()
+#10 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/NexoApiAuth.php(99): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#11 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\NexoApiAuth->handle()
+#12 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#13 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#14 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#15 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(263): Laravel\\Lumen\\Application->sendThroughPipeline()
+#16 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(171): Laravel\\Lumen\\Application->handleFoundRoute()
+#17 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::dispatch():167}()
+#18 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/CorsMiddleware.php(31): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#19 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\CorsMiddleware->handle()
+#20 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#21 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#22 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#23 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(167): Laravel\\Lumen\\Application->sendThroughPipeline()
+#24 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch()
+#25 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#26 {main}
+"} 
+[2026-02-11 14:34:03] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:34:03] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:34:03] local.ERROR: Unclosed '{' on line 10 {"exception":"[object] (ParseError(code: 0): Unclosed '{' on line 10 at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Controllers/FaqController.php:220)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/composer/ClassLoader.php(427): {closure:Composer\\Autoload\\ClassLoader::initializeIncludeClosure():575}()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(959): ReflectionClass->__construct()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(832): Illuminate\\Container\\Container->build()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(763): Illuminate\\Container\\Container->resolve()
+#5 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Application.php(327): Illuminate\\Container\\Container->make()
+#6 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->make()
+#7 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(284): Laravel\\Lumen\\Application->callControllerAction()
+#8 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(264): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute()
+#9 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::handleFoundRoute():263}()
+#10 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/NexoApiAuth.php(99): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#11 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\NexoApiAuth->handle()
+#12 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#13 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#14 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#15 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(263): Laravel\\Lumen\\Application->sendThroughPipeline()
+#16 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(171): Laravel\\Lumen\\Application->handleFoundRoute()
+#17 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::dispatch():167}()
+#18 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/CorsMiddleware.php(31): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#19 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\CorsMiddleware->handle()
+#20 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#21 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#22 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#23 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(167): Laravel\\Lumen\\Application->sendThroughPipeline()
+#24 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch()
+#25 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#26 {main}
+"} 
+[2026-02-11 14:35:14] local.ERROR: Unclosed '{' on line 10 {"exception":"[object] (ParseError(code: 0): Unclosed '{' on line 10 at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Controllers/FaqController.php:220)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/composer/ClassLoader.php(427): {closure:Composer\\Autoload\\ClassLoader::initializeIncludeClosure():575}()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(959): ReflectionClass->__construct()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(832): Illuminate\\Container\\Container->build()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(763): Illuminate\\Container\\Container->resolve()
+#5 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Application.php(327): Illuminate\\Container\\Container->make()
+#6 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->make()
+#7 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(284): Laravel\\Lumen\\Application->callControllerAction()
+#8 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(269): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute()
+#9 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(239): Laravel\\Lumen\\Application->handleFoundRoute()
+#10 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(174): Laravel\\Lumen\\Application->handleDispatcherResponse()
+#11 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::dispatch():167}()
+#12 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/CorsMiddleware.php(31): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#13 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\CorsMiddleware->handle()
+#14 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#15 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#16 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#17 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(167): Laravel\\Lumen\\Application->sendThroughPipeline()
+#18 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch()
+#19 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#20 {main}
+"} 
+[2026-02-11 14:36:10] local.ERROR: Unclosed '{' on line 12 {"exception":"[object] (ParseError(code: 0): Unclosed '{' on line 12 at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Services/FaqService.php:416)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/composer/ClassLoader.php(427): {closure:Composer\\Autoload\\ClassLoader::initializeIncludeClosure():575}()
+#1 [internal function]: Composer\\Autoload\\ClassLoader->loadClass()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(959): ReflectionClass->__construct()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(832): Illuminate\\Container\\Container->build()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(763): Illuminate\\Container\\Container->resolve()
+#5 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Application.php(327): Illuminate\\Container\\Container->make()
+#6 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(1133): Laravel\\Lumen\\Application->make()
+#7 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(1043): Illuminate\\Container\\Container->resolveClass()
+#8 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(994): Illuminate\\Container\\Container->resolveDependencies()
+#9 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(832): Illuminate\\Container\\Container->build()
+#10 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(763): Illuminate\\Container\\Container->resolve()
+#11 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Application.php(327): Illuminate\\Container\\Container->make()
+#12 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(326): Laravel\\Lumen\\Application->make()
+#13 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(284): Laravel\\Lumen\\Application->callControllerAction()
+#14 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(269): Laravel\\Lumen\\Application->callActionOnArrayBasedRoute()
+#15 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(239): Laravel\\Lumen\\Application->handleFoundRoute()
+#16 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(174): Laravel\\Lumen\\Application->handleDispatcherResponse()
+#17 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(48): Laravel\\Lumen\\Application->{closure:Laravel\\Lumen\\Concerns\\RoutesRequests::dispatch():167}()
+#18 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/app/Http/Middleware/CorsMiddleware.php(31): Laravel\\Lumen\\Routing\\Pipeline->{closure:Laravel\\Lumen\\Routing\\Pipeline::prepareDestination():46}()
+#19 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(209): App\\Http\\Middleware\\CorsMiddleware->handle()
+#20 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Routing/Pipeline.php(30): Illuminate\\Pipeline\\Pipeline->{closure:{closure:Illuminate\\Pipeline\\Pipeline::carry():184}:185}()
+#21 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/pipeline/Pipeline.php(127): Laravel\\Lumen\\Routing\\Pipeline->{closure:{closure:Laravel\\Lumen\\Routing\\Pipeline::carry():25}:26}()
+#22 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(428): Illuminate\\Pipeline\\Pipeline->then()
+#23 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(167): Laravel\\Lumen\\Application->sendThroughPipeline()
+#24 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Concerns/RoutesRequests.php(112): Laravel\\Lumen\\Application->dispatch()
+#25 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/public/index.php(28): Laravel\\Lumen\\Application->run()
+#26 {main}
+"} 
+[2026-02-11 14:37:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:49] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:50] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:50] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:50] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:50] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:37:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:37:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:09] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:09] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:09] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:09] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:25] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:25] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:25] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:25] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:39:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:39:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:09] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:09] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:40:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:40:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:22] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=1, categoryId=36162524, categoryHandle=teste2  
+[2026-02-11 14:41:22] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 14:41:22] local.INFO: Binding de categoria criado com sucesso: id=5  
+[2026-02-11 14:41:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:25] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:25] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:25] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:25] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:31] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=1, categoryId=36162523, categoryHandle=teste-da-api  
+[2026-02-11 14:41:31] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 14:41:31] local.INFO: Binding de categoria criado com sucesso: id=6  
+[2026-02-11 14:41:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:41:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:41:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:46:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:46:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:46:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:46:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:46:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:46:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:46:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:46:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:51] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:51] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:52] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:52] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:54] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:49:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:49:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:00] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:00] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:06] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:06] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:09] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:09] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:10] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:10] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:10] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:10] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:11] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:11] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:13] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:13] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:13] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:13] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:14] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:14] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:16] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:16] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:16] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:16] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:17] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:17] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:23] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:23] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:24] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:24] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:27] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:27] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:29] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:29] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:46] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=1, productId=273721211  
+[2026-02-11 14:50:46] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 14:50:46] local.INFO: Binding de produto criado com sucesso: id=9  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:50:46] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=1, categoryId=36162523, categoryHandle=teste-da-api  
+[2026-02-11 14:50:46] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 14:50:46] local.INFO: Binding de categoria criado com sucesso: id=7  
+[2026-02-11 14:50:47] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:50:47] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:53:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:53:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:53:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:53:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:53:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:53:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:53:18] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:53:18] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:53:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:53:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:53:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:53:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:41] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:41] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:44] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:44] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:54:59] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:54:59] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:01] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:01] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:02] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:02] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:05] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:05] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:06] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:06] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:08] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:12] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:12] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:55:12] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=1, categoryId=36162523, categoryHandle=teste-da-api  
+[2026-02-11 14:55:12] local.INFO: FAQ encontrado: 1. Criando binding...  
+[2026-02-11 14:55:12] local.INFO: Binding de categoria criado com sucesso: id=8  
+[2026-02-11 14:55:13] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:55:13] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:52] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:52] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:52] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:52] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:53] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:53] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:53] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:53] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:57] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:57] local.INFO: Marcando FAQ 1 como homepage. Removendo homepage de outros FAQs do store...  
+[2026-02-11 14:56:58] local.INFO: Outros FAQs desmarcados de homepage  
+[2026-02-11 14:56:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:56:58] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:56:58] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:28] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:28] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:31] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:31] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:33] local.INFO: Marcando FAQ 1 como homepage. Removendo homepage de outros FAQs do store...  
+[2026-02-11 14:57:33] local.INFO: Outros FAQs desmarcados de homepage  
+[2026-02-11 14:57:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:36] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:36] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:37] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:37] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:40] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:42] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:42] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:43] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:43] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:45] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:45] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:46] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:55] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:55] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:57:56] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:57:56] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:15] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=6, categoryId=36162523, categoryHandle=teste-da-api  
+[2026-02-11 14:58:15] local.INFO: Removendo categoria de outros FAQs do store...  
+[2026-02-11 14:58:15] local.INFO: Categoria removida de outros FAQs. Agora criando binding no FAQ atual...  
+[2026-02-11 14:58:15] local.INFO: Binding de categoria criado com sucesso: id=9  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:15] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:21] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:21] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:22] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:22] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:25] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:25] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:25] local.INFO: Marcando FAQ 1 como homepage. Removendo homepage de outros FAQs do store...  
+[2026-02-11 14:58:26] local.INFO: Outros FAQs desmarcados de homepage  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:26] local.INFO: Iniciando addCategoryBinding: storeId=6300987, faqId=1, categoryId=36162523, categoryHandle=teste-da-api  
+[2026-02-11 14:58:26] local.INFO: Removendo categoria de outros FAQs do store...  
+[2026-02-11 14:58:26] local.INFO: Categoria removida de outros FAQs. Agora criando binding no FAQ atual...  
+[2026-02-11 14:58:26] local.INFO: Binding de categoria criado com sucesso: id=10  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:26] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:29] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:29] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:29] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:29] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:30] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:30] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:30] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:30] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:32] local.INFO: Marcando FAQ 1 como homepage. Removendo homepage de outros FAQs do store...  
+[2026-02-11 14:58:32] local.INFO: Outros FAQs desmarcados de homepage  
+[2026-02-11 14:58:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:32] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:32] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:33] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:33] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:34] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:34] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:35] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:38] local.INFO: Marcando FAQ 1 como homepage. Removendo homepage de outros FAQs do store...  
+[2026-02-11 14:58:38] local.INFO: Outros FAQs desmarcados de homepage  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:38] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  
+[2026-02-11 14:58:38] local.INFO: Iniciando addProductBinding: storeId=6300987, faqId=1, productId=273721211  
+[2026-02-11 14:58:38] local.INFO: Removendo produto de outros FAQs do store...  
+[2026-02-11 14:58:38] local.INFO: Produto removido de outros FAQs. Agora criando binding no FAQ atual...  
+[2026-02-11 14:58:38] local.INFO: Binding de produto criado com sucesso: id=10  
+[2026-02-11 14:58:39] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-11 14:58:39] local.INFO: NexoApiAuth: Loja encontrada - store_id: 6300987  

@@ -1,0 +1,136 @@
+[2026-02-09 10:54:22] local.ERROR: There are no commands defined in the "key" namespace. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\NamespaceNotFoundException(code: 0): There are no commands defined in the \"key\" namespace. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:694)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(743): Symfony\\Component\\Console\\Application->findNamespace()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#5 {main}
+"} 
+[2026-02-09 10:54:36] local.ERROR: SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select exists (select 1 from information_schema.tables where table_schema = 'faq_api' and table_name = 'migrations' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`) {"exception":"[object] (Illuminate\\Database\\QueryException(code: 2002): SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select exists (select 1 from information_schema.tables where table_schema = 'faq_api' and table_name = 'migrations' and table_type in ('BASE TABLE', 'SYSTEM VERSIONED')) as `exists`) at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php:825)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(979): Illuminate\\Database\\Connection->runQueryCallback()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(958): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(781): Illuminate\\Database\\Connection->handleQueryException()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(398): Illuminate\\Database\\Connection->run()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(344): Illuminate\\Database\\Connection->select()
+#5 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(361): Illuminate\\Database\\Connection->selectOne()
+#6 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Schema/MySqlBuilder.php(45): Illuminate\\Database\\Connection->scalar()
+#7 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Migrations/DatabaseMigrationRepository.php(184): Illuminate\\Database\\Schema\\MySqlBuilder->hasTable()
+#8 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Migrations/Migrator.php(742): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#9 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Console/Migrations/StatusCommand.php(56): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#10 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Migrations/Migrator.php(658): Illuminate\\Database\\Console\\Migrations\\StatusCommand->{closure:Illuminate\\Database\\Console\\Migrations\\StatusCommand::handle():55}()
+#11 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Console/Migrations/StatusCommand.php(55): Illuminate\\Database\\Migrations\\Migrator->usingConnection()
+#12 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\StatusCommand->handle()
+#13 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Util.php(43): Illuminate\\Container\\BoundMethod::{closure:Illuminate\\Container\\BoundMethod::call():35}()
+#14 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure()
+#15 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#16 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(696): Illuminate\\Container\\BoundMethod::call()
+#17 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/console/Command.php(213): Illuminate\\Container\\Container->call()
+#18 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Command/Command.php(341): Illuminate\\Console\\Command->execute()
+#19 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run()
+#20 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(1079): Illuminate\\Console\\Command->run()
+#21 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(356): Symfony\\Component\\Console\\Application->doRunCommand()
+#22 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#23 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#24 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#25 {main}
+
+[previous exception] [object] (PDOException(code: 2002): SQLSTATE[HY000] [2002] Connection refused at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connectors/Connector.php:67)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connectors/Connector.php(67): PDO::connect()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connectors/Connector.php(85): Illuminate\\Database\\Connectors\\Connector->createPdoConnection()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connectors/Connector.php(48): Illuminate\\Database\\Connectors\\Connector->tryAgainIfCausedByLostConnection()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connectors/MySqlConnector.php(24): Illuminate\\Database\\Connectors\\Connector->createConnection()
+#4 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connectors/ConnectionFactory.php(185): Illuminate\\Database\\Connectors\\MySqlConnector->connect()
+#5 [internal function]: Illuminate\\Database\\Connectors\\ConnectionFactory->{closure:Illuminate\\Database\\Connectors\\ConnectionFactory::createPdoResolverWithHosts():180}()
+#6 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(1231): call_user_func()
+#7 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(1267): Illuminate\\Database\\Connection->getPdo()
+#8 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(512): Illuminate\\Database\\Connection->getReadPdo()
+#9 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(407): Illuminate\\Database\\Connection->getPdoForSelect()
+#10 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(812): Illuminate\\Database\\Connection->{closure:Illuminate\\Database\\Connection::select():398}()
+#11 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(979): Illuminate\\Database\\Connection->runQueryCallback()
+#12 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(958): Illuminate\\Database\\Connection->tryAgainIfCausedByLostConnection()
+#13 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(781): Illuminate\\Database\\Connection->handleQueryException()
+#14 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(398): Illuminate\\Database\\Connection->run()
+#15 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(344): Illuminate\\Database\\Connection->select()
+#16 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Connection.php(361): Illuminate\\Database\\Connection->selectOne()
+#17 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Schema/MySqlBuilder.php(45): Illuminate\\Database\\Connection->scalar()
+#18 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Migrations/DatabaseMigrationRepository.php(184): Illuminate\\Database\\Schema\\MySqlBuilder->hasTable()
+#19 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Migrations/Migrator.php(742): Illuminate\\Database\\Migrations\\DatabaseMigrationRepository->repositoryExists()
+#20 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Console/Migrations/StatusCommand.php(56): Illuminate\\Database\\Migrations\\Migrator->repositoryExists()
+#21 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Migrations/Migrator.php(658): Illuminate\\Database\\Console\\Migrations\\StatusCommand->{closure:Illuminate\\Database\\Console\\Migrations\\StatusCommand::handle():55}()
+#22 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/database/Console/Migrations/StatusCommand.php(55): Illuminate\\Database\\Migrations\\Migrator->usingConnection()
+#23 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(36): Illuminate\\Database\\Console\\Migrations\\StatusCommand->handle()
+#24 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Util.php(43): Illuminate\\Container\\BoundMethod::{closure:Illuminate\\Container\\BoundMethod::call():35}()
+#25 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(95): Illuminate\\Container\\Util::unwrapIfClosure()
+#26 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/BoundMethod.php(35): Illuminate\\Container\\BoundMethod::callBoundMethod()
+#27 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/container/Container.php(696): Illuminate\\Container\\BoundMethod::call()
+#28 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/console/Command.php(213): Illuminate\\Container\\Container->call()
+#29 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Command/Command.php(341): Illuminate\\Console\\Command->execute()
+#30 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/illuminate/console/Command.php(182): Symfony\\Component\\Console\\Command\\Command->run()
+#31 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(1079): Illuminate\\Console\\Command->run()
+#32 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(356): Symfony\\Component\\Console\\Application->doRunCommand()
+#33 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#34 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#35 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#36 {main}
+"} 
+[2026-02-09 10:57:31] local.ERROR: Command "serve" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"serve\" is not defined. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2026-02-09 11:19:02] local.ERROR: Command "serve" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"serve\" is not defined. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2026-02-09 11:19:07] local.ERROR: Command "server" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"server\" is not defined. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2026-02-09 11:19:27] local.ERROR: Command "serve" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"serve\" is not defined. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2026-02-09 16:27:55] local.ERROR: Command "serve" is not defined. {"exception":"[object] (Symfony\\Component\\Console\\Exception\\CommandNotFoundException(code: 0): Command \"serve\" is not defined. at /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php:759)
+[stacktrace]
+#0 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(298): Symfony\\Component\\Console\\Application->find()
+#1 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/symfony/console/Application.php(195): Symfony\\Component\\Console\\Application->doRun()
+#2 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/vendor/laravel/lumen-framework/src/Console/Kernel.php(160): Symfony\\Component\\Console\\Application->run()
+#3 /home/m6rc0sp/Documentos/MVL/Nexos App/ns-faq-api/artisan(35): Laravel\\Lumen\\Console\\Kernel->handle()
+#4 {main}
+"} 
+[2026-02-09 17:26:40] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:26:40] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:26:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:26:46] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:26:46] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:26:46] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:30:29] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:30:29] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:30:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:30:44] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:33:57] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:33:57] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:34:35] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:34:35] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:34:44] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:34:44] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
+[2026-02-09 17:34:49] local.INFO: NexoApiAuth: store_id extraído do token: 6300987  
+[2026-02-09 17:34:49] local.WARNING: NexoApiAuth: Loja não encontrada para store_id: 6300987  
