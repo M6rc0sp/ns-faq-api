@@ -181,9 +181,9 @@ class FaqController extends Controller
         return response()->json($result['data']);
     }
 
-    public function getCategoryFaq(Request $request, $storeId, $categoryHandle)
+    public function getCategoryFaq(Request $request, $storeId, $categoryId)
     {
-        $result = $this->faqService->getFaqByCategory($storeId, $categoryHandle);
+        $result = $this->faqService->getFaqByCategory($storeId, $categoryId);
 
         if (!$result['success']) {
             return response()->json($result, 404);
@@ -208,9 +208,9 @@ class FaqController extends Controller
         return response()->json($this->faqService->checkExistingProductFaq($storeId, $productId));
     }
 
-    public function checkCategoryFaq(Request $request, $storeId, $categoryHandle)
+    public function checkCategoryFaq(Request $request, $storeId, $categoryId)
     {
-        return response()->json($this->faqService->checkExistingCategoryFaq($storeId, $categoryHandle));
+        return response()->json($this->faqService->checkExistingCategoryFaq($storeId, $categoryId));
     }
 
     public function checkHomepageFaq(Request $request, $storeId)

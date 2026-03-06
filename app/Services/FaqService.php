@@ -339,12 +339,12 @@ class FaqService
         }
     }
 
-    public function getFaqByCategory(string $storeId, string $categoryHandle): array
+    public function getFaqByCategory(string $storeId, string $categoryId): array
     {
         try {
             $faq = Faq::byStore($storeId)
                 ->active()
-                ->whereHas('categoryBindings', fn($q) => $q->where('category_handle', $categoryHandle))
+                ->whereHas('categoryBindings', fn($q) => $q->where('category_id', $categoryId))
                 ->with(['questions' => fn($q) => $q->orderBy('order')])
                 ->first();
 
@@ -401,12 +401,12 @@ class FaqService
         }
     }
 
-    public function checkExistingCategoryFaq(string $storeId, string $categoryHandle): array
+    public function checkExistingCategoryFaq(string $storeId, string $categoryId): array
     {
         try {
             $faq = Faq::byStore($storeId)
                 ->active()
-                ->whereHas('categoryBindings', fn($q) => $q->where('category_handle', $categoryHandle))
+                ->whereHas('categoryBindings', fn($q) => $q->where('category_id', $categoryId))
                 ->with(['questions' => fn($q) => $q->orderBy('order')])
                 ->first();
 

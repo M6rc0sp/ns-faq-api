@@ -56,15 +56,15 @@ $router->group(['prefix' => 'api'], function () use ($router) {
         // FAQ por produto
         $router->get('/faqs/{storeId}/product/{productId}', 'FaqController@getProductFaq');
         
-        // FAQ por categoria (usando handle)
-        $router->get('/faqs/{storeId}/category/{categoryHandle}', 'FaqController@getCategoryFaq');
+        // FAQ por categoria (usando ID da categoria)
+        $router->get('/faqs/{storeId}/category/{categoryId}', 'FaqController@getCategoryFaq');
         
         // FAQ da homepage
         $router->get('/faqs/{storeId}/homepage', 'FaqController@getHomepageFaq');
 
         // Verificar se já existe FAQ vinculado
         $router->get('/check/product/{storeId}/{productId}', 'FaqController@checkProductFaq');
-        $router->get('/check/category/{storeId}/{categoryHandle}', 'FaqController@checkCategoryFaq');
+        $router->get('/check/category/{storeId}/{categoryId}', 'FaqController@checkCategoryFaq');
         $router->get('/check/homepage/{storeId}', 'FaqController@checkHomepageFaq');
     });
 });
